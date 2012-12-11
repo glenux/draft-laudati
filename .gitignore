@@ -1,3 +1,4 @@
 /data
 /.bundle
 /vendor/bundle
+/bin/*
