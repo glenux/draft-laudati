@@ -1,0 +1,11 @@
+%html
+	%head
+		%title Laudati - 
+	%body
+		%h1 Laudati
+
+		- if @error
+			.error= @error
+
+		= yield
+
